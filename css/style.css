@@ -1,0 +1,36 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+
+
+table,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 50px 550px;
+    padding: 50px;
+}
+.odd{
+    background-color: white;
+}
+.even{
+    background-color: black;
+}
+.class1{
+    background-color: black;
+}
+.class2{
+    background-color: white;
+}
+.odd:hover{
+    background-color: rgb(121, 121, 186);
+}
+.even:hover{
+    background-color: rgb(10, 125, 125);
+}
+.class2:hover{
+    background-color: rgb(121, 121, 186);
+}
+.class1:hover{
+    background-color: rgb(18, 132, 132);
+}
